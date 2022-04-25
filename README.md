@@ -15,7 +15,11 @@ The demo can be found [here](./illumination)
 
 A binary image manipulation example can be found [here](./ShapeManip/demo.mp4).
 
-## 4. Source code
+## 4. Image rearrangement
+
+The demo can be found [here](./rearrangement)
+
+## 5. Source code
 
 The full source code is provided [here] (To be added).
 
