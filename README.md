@@ -11,9 +11,13 @@ This supplementary material mainly shows several interactive image manipulation 
 
 The demo can be found [here](./illumination)
 
-## 3. Binary image manipulation
+## 3. Image deformation
 
-A binary image manipulation example can be found [here](./ShapeManip/demo.mp4).
+**Binary image manipulation：**
+A horse shape manipulation example can be found [here](./ShapeManip/demo.mp4).
+
+**Grayscale image deformation：**
+The facial changes demo can be found [here] (To be added).
 
 ## 4. Image rearrangement
 
