@@ -9,15 +9,11 @@ This supplementary material mainly shows several interactive image manipulation 
   
 ## 2. Simulation of illumination changes
 
-The demo can be found [here](./illumination)
+The demos of the black ball, the Y component of the tomato example and the copper ball image can be found [here](./illumination)
 
-## 3. Image deformation
+## 3. Binary image manipulation
 
-**Binary image manipulation：**
-A horse shape manipulation example can be found [here](./ShapeManip/demo.mp4).
-
-**Grayscale image deformation：**
-The facial changes demo can be found [here] (To be added).
+A binary image manipulation example can be found [here](./ShapeManip/demo.mp4).
 
 ## 4. Image rearrangement
 
