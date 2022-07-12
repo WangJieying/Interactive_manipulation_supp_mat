@@ -74,7 +74,7 @@ The script also demands the set up of the position of some buttons and elements 
 
 - **D**: MORPHOTREE_BUTTON_POS;
 
-![](/home/dennis/Documents/code/Interactive_manipulation_supp_mat/DataAugmentation/img/first-window.png)
+![](./img/first-window.png)
 
 - **E**: ROOT_NODE_POS;
 
@@ -90,7 +90,7 @@ The script also demands the set up of the position of some buttons and elements 
 
 - **K**: RANDOM_CHANGES_BUTTON_POS;
 
-![](/home/dennis/Documents/code/Interactive_manipulation_supp_mat/DataAugmentation/img/skeleton-manip.png)
+![](./img/skeleton-manip.png)
 
 - **L**: OUTPUT_DIRECTORY_INPUT_POS;
 
@@ -102,7 +102,7 @@ The script also demands the set up of the position of some buttons and elements 
 
 - **P**: SPLINE_REC_BUTTON_POS.
 
-![](/home/dennis/Documents/code/Interactive_manipulation_supp_mat/DataAugmentation/img/random-changes.png)
+![](./img/random-changes.png)
 
 To run the script, two consoles should be opened, one where the script will be running and the other in the directory where the binary of the application is located. Then, when the script starts, the console in the directory of the binary of the application should be active (it is done manually). Then, the script runs to the end. When finished, the directory of the generated sampled (augmented dataset) should be produced.
 
