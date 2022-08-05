@@ -6,7 +6,6 @@ This supplementary material mainly shows several interactive image manipulation 
 
  We provide two demos for visible watermark removal, which can be found [here](./watermark)
 
-  
 ## 2. Simulation of illumination changes
 
 The demos of the black ball, the Y component of the tomato example and the copper ball image can be found [here](./illumination)
@@ -19,7 +18,10 @@ A binary image manipulation example can be found [here](./ShapeManip/demo.mp4).
 
 The demo can be found [here](./rearrangement)
 
+## 5. Tree navigation
+
+A example of navigation on a  tree with hudreds of nodes using zooming and panning can be found [here](./tree-navigation/node-selection-zoom.mp4). 
+
 ## 5. Source code
 
 The full source code is provided [here] (To be added).
-
