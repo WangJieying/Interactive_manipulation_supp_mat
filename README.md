@@ -20,8 +20,12 @@ The demo can be found [here](./rearrangement)
 
 ## 5. Tree navigation
 
-A example of navigation on a  tree with hudreds of nodes using zooming and panning can be found [here](./tree-navigation/node-selection-zoom.mp4). 
+An example of navigation on a  tree with hudreds of nodes using zooming and panning can be found [here](./tree-navigation/node-selection-zoom.mp4). 
 
-## 5. Source code
+## 6. Runtime
+
+Encoding runtime for a small dataset of different images can be found [here](./time-analysis.ipynb).
+
+## 7. Source code
 
 The full source code is provided [here] (To be added).
