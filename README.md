@@ -24,7 +24,7 @@ An example of navigation on a  tree with hudreds of nodes using zooming and pann
 
 ## 6. Runtime
 
-Encoding runtime for a small dataset of different images can be found [here](./time-analysis.ipynb).
+Encoding runtime for a small dataset of different images can be found [here](./executionTimeAnalysis/time-analysis.ipynb).
 
 ## 7. Source code
 
