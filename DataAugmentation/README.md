@@ -150,34 +150,34 @@ We have test our approach in two different datasets: 50-MNIST and 15-EMNIST. Usi
 
 Classifier report tested on MNIST test dataset and trained on 50-MNIST (Classifier #1):
 
-![](/home/dennis/Documents/paper/interactve-dmd/Interactive_manipulation_supp_mat/DataAugmentation/results-screens-shoots/mnist-classifier-report.png)
+![](./results-screens-shoots/mnist-classifier-report.png)
 
 Classifier report tested on MNIST test dataset and trained on augmented 50-MNIST (Classifier #2):
 
-![](/home/dennis/Documents/paper/interactve-dmd/Interactive_manipulation_supp_mat/DataAugmentation/results-screens-shoots/mnist-classifier-report-aug.png)
+![](./results-screens-shoots/mnist-classifier-report-aug.png)
 
 Confusion matrix of Classifier #1
 
-![](/home/dennis/Documents/paper/interactve-dmd/Interactive_manipulation_supp_mat/DataAugmentation/results-screens-shoots/mnist-confusion-matrix.png)
+![](./results-screens-shoots/mnist-confusion-matrix.png)
 
 Confusion matrix of Classifier #2
 
-![](/home/dennis/Documents/paper/interactve-dmd/Interactive_manipulation_supp_mat/DataAugmentation/results-screens-shoots/mnist-confusion-matrix-aug.png)
+![](./results-screens-shoots/mnist-confusion-matrix-aug.png)
 
 #### 15-EMNIST
 
 Classifier report tested on EMNIST test dataset and trained on 15-EMNIST (Classifier #3):
 
-![](/home/dennis/Documents/paper/interactve-dmd/Interactive_manipulation_supp_mat/DataAugmentation/results-screens-shoots/emnist-classifier-report.png)
+![](./results-screens-shoots/emnist-classifier-report.png)
 
 Classifier report tested on EMNIST test dataset and trained on augmented 15-EMNIST (Classifier #4):
 
-![](/home/dennis/Documents/paper/interactve-dmd/Interactive_manipulation_supp_mat/DataAugmentation/results-screens-shoots/emnist-classifier-aug-report.png)
+![](./results-screens-shoots/emnist-classifier-aug-report.png)
 
 Confusion matrix of Classifier #3
 
-![](/home/dennis/Documents/paper/interactve-dmd/Interactive_manipulation_supp_mat/DataAugmentation/results-screens-shoots/emnist-confusion-matrix.png)
+![](./results-screens-shoots/emnist-confusion-matrix.png)
 
 Confusion matrix of Classifier #4
 
-![](/home/dennis/Documents/paper/interactve-dmd/Interactive_manipulation_supp_mat/DataAugmentation/results-screens-shoots/emnist-confusion-matrix-aug.png)
+![](./results-screens-shoots/emnist-confusion-matrix-aug.png)
