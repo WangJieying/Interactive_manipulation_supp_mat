@@ -144,7 +144,7 @@ During the execution, the script should the classifier report with Accuracy meas
 
 ### Screenshots of the scripts results
 
-We have test our approach in two different datasets: 50-MNIST and 15-EMNIST. Using the scripts provided, we took the screenshoot of the confustion matrices and classifier reports as shown next.
+We have tested our approach in two different datasets: 50-MNIST and 15-EMNIST. Using the scripts provided, we took the screenshoot of the confustion matrices and classifier reports as shown next.
 
 #### 50-MNIST
 
