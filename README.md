@@ -4,11 +4,11 @@ This supplementary material mainly shows several interactive image manipulation 
 
 ## 1. Visible watermark removal
 
- We provide three demos for visible watermark removal, which can be found [here](./watermark)
+ We provide three demos for visible watermark removal, which can be found [here](./watermark).
 
 ## 2. Artistic effects
 
-The demos of the black ball, the Y component of the tomato example and the copper ball image can be found [here](./illumination)
+The demos of the black ball, the Y component of the tomato example and the copper ball image can be found [here](./illumination).
 
 ## 3. Binary image manipulation
 
@@ -21,7 +21,7 @@ The manipulation of the running horse example can be found [here](./imageDeforma
 
 ## 5. Image rearrangement
 
-The demo can be found [here](./rearrangement)
+The demo can be found [here](./rearrangement).
 
 ## 6. Tree navigation
 
@@ -31,10 +31,14 @@ An example of navigation on a  tree with hudreds of nodes using zooming and pann
 
 Comparison of GIMP and our method for seven different applications can be found in [this](./CompareWithGIMP) file.
 
-## 8. Runtime
+## 8.Combination of our tools and GIMP
+
+The demo of the combination of our tools and GIMP can be found [here](./Combination).
+
+## 9. Runtime
 
 Encoding runtime for a small dataset of different images can be found [here](./executionTimeAnalysis/time-analysis.ipynb).
 
-## 9. Source code
+## 10. Source code
 
 The full source code is provided [here] (To be added).
