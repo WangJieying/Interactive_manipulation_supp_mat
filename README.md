@@ -1,6 +1,9 @@
 # Interactive image manipulation using morphological trees and spline-based skeletons
 Jieying Wang, Dennis J. Silva, Jiri Kosinka, Alexandru Telea, Ronaldo F. Hashimoto, Jos B.T.M. Roerdink
 
+![Graphical abstract](graphical-abstract.jpg "Graphical Abstract")
+
+
 ## Abstract
 The ability to edit an image using intuitive commands and primitives is a desired feature for any image editing software. In this paper, we combine recent results in medial axes with the well-established morphological tree representations to develop an interactive image editing tool that provides global and local image manipulation using high-level primitives. We propose a new way to render interactive morphological trees using icicle plots and introduce different ways of manipulating spline-based medial axis transforms for grayscale and colored image editing. Different applications of the tool, such as watermark removal, image deformation, dataset augmentation for machine learning, artistic illumination manipulation, image rearrangement, and clothing design, are
 
