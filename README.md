@@ -46,7 +46,7 @@ An example of navigation on a  tree with hudreds of nodes using zooming and pann
 
 ### 9. Comparison with GIMP
 
-Comparison of GIMP and our method for seven different applications can be found in [this](./CompareWithGIMP) file.
+Comparison of GIMP and our method for seven different applications can be found in this [link](./CompareWithGIMP).
 
 ### 10.Combination of our tools and GIMP
 
