@@ -46,4 +46,4 @@ Encoding runtime for a small dataset of different images can be found [here](./e
 
 ## 11. Source code
 
-The full source code is provided [here] (To be added).
+The full source code is provided [here](https://github.com/dennisjosesilva/interactive-dmd).
