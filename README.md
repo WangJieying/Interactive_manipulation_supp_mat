@@ -1,5 +1,6 @@
 # Interactive image manipulation using morphological trees and spline-based skeletons
 Jieying Wang, Dennis J. Silva, Jiri Kosinka, Alexandru Telea, Ronaldo F. Hashimoto, Jos B.T.M. Roerdink
+https://doi.org/10.1016/j.cag.2022.09.002
 
 ![Graphical abstract](graphical-abstract.jpg "Graphical Abstract")
 
